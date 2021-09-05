@@ -1,0 +1,14 @@
+C:\Users\renyd\OneDrive\Escritorio\Tarea1\Cap.1\Cap.2\bin\Debug\netcoreapp3.1\Cap.2.exe
+C:\Users\renyd\OneDrive\Escritorio\Tarea1\Cap.1\Cap.2\bin\Debug\netcoreapp3.1\Cap.2.deps.json
+C:\Users\renyd\OneDrive\Escritorio\Tarea1\Cap.1\Cap.2\bin\Debug\netcoreapp3.1\Cap.2.runtimeconfig.json
+C:\Users\renyd\OneDrive\Escritorio\Tarea1\Cap.1\Cap.2\bin\Debug\netcoreapp3.1\Cap.2.runtimeconfig.dev.json
+C:\Users\renyd\OneDrive\Escritorio\Tarea1\Cap.1\Cap.2\bin\Debug\netcoreapp3.1\Cap.2.dll
+C:\Users\renyd\OneDrive\Escritorio\Tarea1\Cap.1\Cap.2\bin\Debug\netcoreapp3.1\Cap.2.pdb
+C:\Users\renyd\OneDrive\Escritorio\Tarea1\Cap.1\Cap.2\obj\Debug\netcoreapp3.1\Cap.2.csproj.AssemblyReference.cache
+C:\Users\renyd\OneDrive\Escritorio\Tarea1\Cap.1\Cap.2\obj\Debug\netcoreapp3.1\Cap.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renyd\OneDrive\Escritorio\Tarea1\Cap.1\Cap.2\obj\Debug\netcoreapp3.1\Cap.2.AssemblyInfoInputs.cache
+C:\Users\renyd\OneDrive\Escritorio\Tarea1\Cap.1\Cap.2\obj\Debug\netcoreapp3.1\Cap.2.AssemblyInfo.cs
+C:\Users\renyd\OneDrive\Escritorio\Tarea1\Cap.1\Cap.2\obj\Debug\netcoreapp3.1\Cap.2.csproj.CoreCompileInputs.cache
+C:\Users\renyd\OneDrive\Escritorio\Tarea1\Cap.1\Cap.2\obj\Debug\netcoreapp3.1\Cap.2.dll
+C:\Users\renyd\OneDrive\Escritorio\Tarea1\Cap.1\Cap.2\obj\Debug\netcoreapp3.1\Cap.2.pdb
+C:\Users\renyd\OneDrive\Escritorio\Tarea1\Cap.1\Cap.2\obj\Debug\netcoreapp3.1\Cap.2.genruntimeconfig.cache
