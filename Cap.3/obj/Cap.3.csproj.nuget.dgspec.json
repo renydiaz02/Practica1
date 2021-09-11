@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\renyd\\OneDrive\\Escritorio\\Tarea1\\Cap.1\\Cap.3\\Cap.3.csproj": {}
+    "C:\\Users\\renyd\\OneDrive\\Escritorio\\Aplicada1\\Tarea1\\Cap.1\\Cap.3\\Cap.3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\renyd\\OneDrive\\Escritorio\\Tarea1\\Cap.1\\Cap.3\\Cap.3.csproj": {
+    "C:\\Users\\renyd\\OneDrive\\Escritorio\\Aplicada1\\Tarea1\\Cap.1\\Cap.3\\Cap.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renyd\\OneDrive\\Escritorio\\Tarea1\\Cap.1\\Cap.3\\Cap.3.csproj",
+        "projectUniqueName": "C:\\Users\\renyd\\OneDrive\\Escritorio\\Aplicada1\\Tarea1\\Cap.1\\Cap.3\\Cap.3.csproj",
         "projectName": "Cap.3",
-        "projectPath": "C:\\Users\\renyd\\OneDrive\\Escritorio\\Tarea1\\Cap.1\\Cap.3\\Cap.3.csproj",
+        "projectPath": "C:\\Users\\renyd\\OneDrive\\Escritorio\\Aplicada1\\Tarea1\\Cap.1\\Cap.3\\Cap.3.csproj",
         "packagesPath": "C:\\Users\\renyd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renyd\\OneDrive\\Escritorio\\Tarea1\\Cap.1\\Cap.3\\obj\\",
+        "outputPath": "C:\\Users\\renyd\\OneDrive\\Escritorio\\Aplicada1\\Tarea1\\Cap.1\\Cap.3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\renyd\\AppData\\Roaming\\NuGet\\NuGet.Config",
