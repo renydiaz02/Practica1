@@ -1,0 +1,64 @@
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\bin\Debug\net5.0-windows\Estructuras_Cadenas.exe
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\bin\Debug\net5.0-windows\Estructuras_Cadenas.deps.json
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\bin\Debug\net5.0-windows\Estructuras_Cadenas.runtimeconfig.json
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\bin\Debug\net5.0-windows\Estructuras_Cadenas.runtimeconfig.dev.json
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\bin\Debug\net5.0-windows\Estructuras_Cadenas.dll
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\bin\Debug\net5.0-windows\ref\Estructuras_Cadenas.dll
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\bin\Debug\net5.0-windows\Estructuras_Cadenas.pdb
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.csproj.AssemblyReference.cache
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo8\Ejercicio3_8.g.cs
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas_MarkupCompile.cache
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas_MarkupCompile.lref
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo8\Ejercicio3_8.baml
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.g.resources
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.AssemblyInfoInputs.cache
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.AssemblyInfo.cs
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.dll
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\ref\Estructuras_Cadenas.dll
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.pdb
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.genruntimeconfig.cache
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo8\Ejercicio5_8.g.cs
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo8\Ejercicio5_8.baml
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo9\Ejercicio1_9.g.cs
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo9\Ejercicio1_9.baml
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo9\Ejercicio3_9.g.cs
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo9\Ejercicio3_9.baml
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo9\Ejercicio4_.g.cs
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea4\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo9\Ejercicio4_.baml
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\bin\Debug\net5.0-windows\Estructuras_Cadenas.exe
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\bin\Debug\net5.0-windows\Estructuras_Cadenas.deps.json
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\bin\Debug\net5.0-windows\Estructuras_Cadenas.runtimeconfig.json
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\bin\Debug\net5.0-windows\Estructuras_Cadenas.runtimeconfig.dev.json
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\bin\Debug\net5.0-windows\Estructuras_Cadenas.dll
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\bin\Debug\net5.0-windows\ref\Estructuras_Cadenas.dll
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\bin\Debug\net5.0-windows\Estructuras_Cadenas.pdb
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.csproj.AssemblyReference.cache
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo8\Ejercicio3_8.g.cs
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo8\Ejercicio5_8.g.cs
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo9\Ejercicio1_9.g.cs
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo9\Ejercicio3_9.g.cs
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo9\Ejercicio4_.g.cs
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas_MarkupCompile.cache
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas_MarkupCompile.lref
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo8\Ejercicio3_8.baml
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo8\Ejercicio5_8.baml
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo9\Ejercicio1_9.baml
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo9\Ejercicio3_9.baml
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Capitulo9\Ejercicio4_.baml
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.g.resources
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.AssemblyInfoInputs.cache
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.AssemblyInfo.cs
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.dll
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\ref\Estructuras_Cadenas.dll
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.pdb
+C:\Users\Vismar\Desktop\Estructuras_Cadenas\obj\Debug\net5.0-windows\Estructuras_Cadenas.genruntimeconfig.cache

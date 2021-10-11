@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Capitulo8\Ejercicio3_8.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Capitulo8\Ejercicio5_8.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Capitulo9\Ejercicio1_9.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Capitulo9\Ejercicio3_9.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Capitulo9\Ejercicio4_.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Capitulo8\Ejercicio3_8.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Capitulo8\Ejercicio5_8.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Capitulo9\Ejercicio1_9.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Capitulo9\Ejercicio3_9.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Capitulo9\Ejercicio4_.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
