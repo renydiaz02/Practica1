@@ -1,0 +1,16 @@
+﻿<Window x:Class="Cap12.Ejercicios.Ejercicio2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cap12.Ejercicios"
+        mc:Ignorable="d"
+        Title="Ejercicio2" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="25">
+            <Label Content="Digite un Numero para buscar el Factorial: "/>
+            <TextBox x:Name="NumeroTextBox" Height="20" Width="150" HorizontalAlignment="Left" Margin="5,0"/>
+            <Button x:Name="Revisar" Content="Revisar" Height="20" Width="60" HorizontalAlignment="Left" Click="Revisar_Click"  Margin="10,10"/>
+        </StackPanel>
+    </Grid>
+</Window>
